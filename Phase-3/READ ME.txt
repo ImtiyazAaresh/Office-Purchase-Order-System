@@ -1,0 +1,5 @@
+** READ ME **
+
+Implemented Blog
+Customer can comment and like
+linked to phase 2

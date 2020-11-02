@@ -1,0 +1,5 @@
+**READ ME**
+
+Static Pages for OPOS
+No blog included
+Mail function implemented
